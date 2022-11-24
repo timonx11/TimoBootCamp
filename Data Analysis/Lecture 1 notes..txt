@@ -1,0 +1,26 @@
+
+uIrl1O
+
+how to approach - Data analyst methodology
+
+step 1-- Decompose the ask?
+example: which do Americans pefer: italian or mexican food?
+how do we define "preference"
+basically breakdown the questions.
+ask which question and boundaries of the question
+
+step 2-- identify data sources.
+
+step 3-- define strategy and metrics
+
+step 4-- build data retreival plan
+
+step 5-- retreive the data
+
+step 6-- clean the data
+
+step 7-- analyze for trends
+
+step 8-- acknowledge limitation
+
+step 9-- make a call / tell the story

@@ -1,0 +1,11 @@
+Excel
+
+median: =median
+std.deviation
+
+name ranges
+=randbetween
+
+mode - multi mode
+mean
+median
